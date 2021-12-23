@@ -1,7 +1,10 @@
 import java.util.Scanner;
 
+<<<<<<< HEAD
 public class HelloWorld {
-
+=======
+public class n {
+>>>>>>> bad
 
     public static void main(String[] args) {
 
